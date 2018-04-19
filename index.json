@@ -1,22 +1,37 @@
-{
-    "All": {
-        "detailsLocation": "details/all.json",
-        "subLabel": "2018"
-    },
-    "Day 1": {
-        "detailsLocation": "details/day_1.json",
-        "subLabel": "3/11/2018"
-    },
-    "Day 2": {
-        "detailsLocation": "details/day_2.json",
-        "subLabel": "3/12/2018"
-    },
-    "Day 3": {
-        "detailsLocation": "details/day_3.json",
-        "subLabel": "3/13/2018"
-    },
-    "Day 4": {
-        "detailsLocation": "details/day_4.json",
-        "subLabel": "3/14/2018"
-    }
-}
+[
+	{
+		"index": 0,
+		"id": "0b44b135-97ee-4e67-ac6b-288602930847",
+		"label": "All",
+		"subLabel": "",
+		"detailsLocation": "details/All.json"
+	},
+	{
+		"index": 1,
+		"id": "a7d80c1a-b701-4430-98a6-e5e6ff0b7914",
+		"label": "Day 1",
+		"subLabel": "04/03/2016",
+		"detailsLocation": "details/Day 1.json"
+	},
+	{
+		"index": 2,
+		"id": "45a2eaec-77e7-4034-8c98-9c10c2e25d3b",
+		"label": "Day 2",
+		"subLabel": "04/04/2016",
+		"detailsLocation": "details/Day 2.json"
+	},
+	{
+		"index": 3,
+		"id": "e7b944e6-3f0d-4102-a6f4-58eed58e966d",
+		"label": "Day 3",
+		"subLabel": "04/05/2016",
+		"detailsLocation": "details/Day 3.json"
+	},
+	{
+		"index": 4,
+		"id": "1809c120-b301-4622-aa13-b91bc6e28a39",
+		"label": "Day 4",
+		"subLabel": "04/06/2016",
+		"detailsLocation": "details/Day 4.json"
+	}
+]
